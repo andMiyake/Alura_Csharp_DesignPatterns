@@ -1,0 +1,6 @@
+C:\Users\319013\source\repos\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.exe.config
+C:\Users\319013\source\repos\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.exe
+C:\Users\319013\source\repos\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.pdb
+C:\Users\319013\source\repos\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.csprojAssemblyReference.cache
+C:\Users\319013\source\repos\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.exe
+C:\Users\319013\source\repos\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.pdb
